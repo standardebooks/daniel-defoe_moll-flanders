@@ -16,3 +16,28 @@ footer{
 	font-variant: small-caps;
 }
 /* End all letters */
+
+/* Poems */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+/* End poems */
+
+blockquote:first-child + p{
+	text-indent: 0;
+}
