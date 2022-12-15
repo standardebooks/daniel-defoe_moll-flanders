@@ -29,3 +29,9 @@ footer{
 	display: none;
 }
 /* End poems */
+
+/* Tables */
+table{
+	margin: 1em auto 1em auto;
+}
+/* End tables */
