@@ -34,4 +34,14 @@ footer{
 table{
 	margin: 1em auto 1em auto;
 }
+
+table td:last-child{
+	font-variant-numeric: tabular-nums;
+	text-align: right;
+	white-space: nowrap;
+}
+
+table tfoot td:last-child {
+	border-top: 1px solid;
+}
 /* End tables */
