@@ -7,10 +7,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
@@ -23,10 +19,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -37,7 +29,3 @@ footer{
 	display: none;
 }
 /* End poems */
-
-blockquote:first-child + p{
-	text-indent: 0;
-}
