@@ -41,7 +41,7 @@ table td:last-child{
 	white-space: nowrap;
 }
 
-table tfoot td:last-child {
+table tfoot td:last-child{
 	border-top: 1px solid;
 }
 /* End tables */
