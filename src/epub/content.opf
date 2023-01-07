@@ -58,39 +58,41 @@
 		<meta property="term" refines="#subject-9">sh2010110766</meta>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2008113236</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">30</meta>
+		<dc:description id="description">A resourceful woman navigates 18th-century English society and colonial America over a lifetime of seventy years, using her wit and resilience in her quest for wealth and happiness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;After the success of &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; and its follow-ups, &lt;a href="https://standardebooks.org/ebooks/daniel-defoe"&gt;Daniel Defoe&lt;/a&gt; published &lt;i&gt;Moll Flanders&lt;/i&gt; in 1722. It’s an episodic, picaresque novel that recounts Moll’s long life of misadventures. It has a journalistic, plain style, with unadorned, prosaic speech that flows naturally from story to story. It has been adapted in several forms for film, television, theater, and radio.&lt;/p&gt;
+			&lt;p&gt;The novel is written as a purported autobiography over the course of the narrator’s life. As a young orphan in poverty, Moll claims she wants to be a “gentlewoman” when she gets older, not fully understanding what the term means. What she desires is simply independence and a life free from servitude. In adulthood, she pursues this in two ways. She first attempts to find security by marrying a wealthy husband, and—after several failures and diminishing options—she turns to thievery. In her interactions, Moll proves streetsmart, deft, and quick on her feet. By traveling back and forth between England and the American colonies, the novel offers a lens into different societies through a variety of occupations.&lt;/p&gt;
+			&lt;p&gt;Moll is an enterprising female protagonist, a true individual. Though she receives some help, she is largely on her own in risky situations. She often relies on disguise and deceiving others, but she is always honest with the reader and tells us exactly what she is thinking, including her guilt and remorse.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/370</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.95560</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Moll_Flanders</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/daniel-defoe_moll-flanders</meta>
 		<dc:creator id="author">Daniel Defoe</dc:creator>
 		<meta property="file-as" refines="#author">Defoe, Daniel</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Daniel_Defoe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79053974</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Hogarth</dc:contributor>
+		<meta property="file-as" refines="#artist">Hogarth, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Hogarth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80126106</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Mike Colagrosso</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Colagrosso, Mike</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://colagrosso.net</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
