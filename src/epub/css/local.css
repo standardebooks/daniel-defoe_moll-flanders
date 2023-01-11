@@ -32,7 +32,7 @@ footer{
 
 /* Tables */
 table{
-	margin: 1em auto 1em auto;
+	margin: 1em auto;
 }
 
 table td:last-child{
