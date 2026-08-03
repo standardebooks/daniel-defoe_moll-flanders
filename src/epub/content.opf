@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/daniel-defoe/moll-flanders</dc:identifier>
 		<dc:date>2023-01-12T20:21:01Z</dc:date>
@@ -68,12 +68,12 @@
 		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">30</meta>
-		<dc:description id="description">A resourceful woman navigates 18th-century English society and colonial America over a lifetime of seventy years, using her wit and resilience in her quest for wealth and happiness.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A resourceful woman navigates 18th-century English society and colonial America over a lifetime of seventy years, using her wit and resilience in her quest for wealth and happiness.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After the success of &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; and its follow-ups, &lt;a href="https://standardebooks.org/ebooks/daniel-defoe"&gt;Daniel Defoe&lt;/a&gt; published &lt;i&gt;Moll Flanders&lt;/i&gt; in 1722. It’s an episodic, picaresque novel that recounts Moll’s long life of misadventures. It has a journalistic, plain style, with unadorned, prosaic speech that flows naturally from story to story.&lt;/p&gt;
 			&lt;p&gt;The novel is written as a purported autobiography over the course of the narrator’s life. As a young orphan in poverty, Moll claims she wants to be a “gentlewoman” when she gets older, not fully understanding what the term means. What she desires is simply independence and a life free from servitude. In adulthood, she pursues this in two ways. She first attempts to find security by marrying a wealthy husband, and—after several failures and diminishing options—she turns to thievery. In her interactions, Moll proves streetsmart, deft, and quick on her feet. By traveling back and forth between England and the American colonies, the novel offers a lens into different societies through a variety of occupations.&lt;/p&gt;
 			&lt;p&gt;Moll is an enterprising female protagonist, a true individual. Though she receives some help, she is largely on her own in risky situations. She often relies on disguise and deceiving others, but she is always honest with the reader and tells us exactly what she is thinking, including her guilt and remorse.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/370</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.95560</dc:source>
