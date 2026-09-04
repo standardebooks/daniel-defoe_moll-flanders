@@ -34,16 +34,16 @@
 		<dc:title id="fulltitle">The Fortunes and Misfortunes of the Famous Moll Flanders</dc:title>
 		<meta property="file-as" refines="#fulltitle">Fortunes and Misfortunes of the Famous Moll Flanders, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">London (England)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Picaresque literature</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
-		<dc:subject id="subject-4">Criminals -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Prostitutes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Children of prisoners -- Fiction</dc:subject>
-		<dc:subject id="subject-7">British -- Virginia -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Women -- England -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Repentance -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Virginia -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Criminals--Fiction</dc:subject>
+		<dc:subject id="subject-5">Prostitutes--Fiction</dc:subject>
+		<dc:subject id="subject-6">Children of prisoners--Fiction</dc:subject>
+		<dc:subject id="subject-7">British--Virginia--Fiction</dc:subject>
+		<dc:subject id="subject-8">Women--England--Fiction</dc:subject>
+		<dc:subject id="subject-9">Repentance--Fiction</dc:subject>
+		<dc:subject id="subject-10">Virginia--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106611</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
